@@ -1,3 +1,7 @@
+#don't want binary
+/bin/*
+#don't want binary files
 *.exe
 *.dll
-changelog.txt
+# want xml
+!/bin/*.xml
