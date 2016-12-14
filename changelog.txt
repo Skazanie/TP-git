@@ -1,6 +1,0 @@
-8c42053 display copyright
-74480a1 Add build timeAdd build time
-56adb75 Add build time
-f2ce43c Inial commit3
-c6e7d08 Inial commit2
-ec9188e Inial commit
